@@ -1,6 +1,6 @@
 - 👋 Olá, sou Luan Rodrigo da Silva Costa
-- 👀 Estou interessado em Data Science
-- 🌱 Atualmente estou desenvolvendo programas em Python 
+- 👀 Estou interessado em Aprender cada dia mais
+- 🌱 Atualmente estou desenvolvendo um sistema de disponilização de cursos EAD 
 
 <!---
 gatitoz-luan/gatitoz-luan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
