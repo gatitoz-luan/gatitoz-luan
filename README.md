@@ -26,8 +26,8 @@ You can click the Preview link to take a look at your changes.
   
    ### Habilidades em aprendizado
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Svelte" height="100" width="40" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg">
-  <img align="center" alt="NodeJs" height="200" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Svelte" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg">
+  <img align="center" alt="NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
 
   ## Entre em contato
