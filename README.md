@@ -1,6 +1,8 @@
-- 👋 Olá, sou Luan Rodrigo da Silva Costa
-- 👀 Estou interessado em Aprender cada dia mais
-- 🌱 Atualmente estou desenvolvendo uma plataforma de disponilização de cursos EAD para o Ministério da Defesa
+- 👋  Olá, sou Luan Rodrigo da Silva Costa
+- 👀  Estou interessado em Aprender cada dia mais
+- 🌱  Atualmente estou desenvolvendo uma plataforma de disponilização de cursos EAD para o Ministério da Defesa
+- 📄  Acesse meu currículo <a href="https://docs.google.com/document/d/1_nENBZMm2H7PtaLwACjI8Czw0_RJ4KDIt_OetPotVq8/edit?usp=sharing">AQUI</a>
+- 👁️  Veja meu portifólio <a href="https://portifolio-blush-delta.vercel.app/">AQUI</a>
 
 <!---
 gatitoz-luan/gatitoz-luan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
