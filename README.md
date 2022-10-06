@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
   <div>
-   ### Habilidades em aprendizado
+   ### Habilidades em aprendizado<br>
   <img align="center" alt="Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vuejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
   <img align="center" alt="Angularjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
