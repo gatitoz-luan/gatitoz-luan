@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 
 </div>
-  
+  <div>
    ### Habilidades em aprendizado
   <img align="center" alt="Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vuejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Fast API" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
   <img align="center" alt="Postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Alchemy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
-
+</div>
   ## Entre em contato
   
   <div>
